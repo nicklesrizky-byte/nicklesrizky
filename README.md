@@ -1,7 +1,7 @@
 # nicklesrizky
 
 <h1 align="center">Hi there, I'm [Nickles Rizky Riyanto] 👋</h1>
-<h3 align="center">Mahasiswa Baru | Belajar Dunia IT </h3>
+<h3 align="center">Mahasiswa Baru | IT Devolopment </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E86DE&center=true&vCenter=true&width=500&lines=Mahasiswa+Ilmu+Komputer;Belajar+Web+Development;Sedang+Explore+Data+Science;Selalu+Semangat+Belajar+Hal+Baru!" alt="Typing SVG" />
@@ -29,7 +29,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-> 💬 Hapus badge yang tidak relevan, dan tambahkan sesuai teknologi yang sedang kamu pelajari.
 
 ---
 
@@ -44,7 +43,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicklesrizky-byte&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
-> ⚠️ Ganti `GANTI-USERNAME` dengan username GitHub kamu sendiri agar statistiknya muncul dengan benar.
+
 
 ---
 
